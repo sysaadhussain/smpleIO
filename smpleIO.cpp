@@ -8,6 +8,7 @@ using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	//changed
 	char text[10];
 	cin>>text;
 	cout<<text;
