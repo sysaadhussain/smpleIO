@@ -12,6 +12,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	char text[10];
 	cin>>text;
 	cout<<text;
+	//hanfedon brach two
 	return 0;
 }
 
